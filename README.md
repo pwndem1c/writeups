@@ -19,12 +19,12 @@ We play CTFs, break challenges, and document the chaos here. Expect payloads, bl
 ## 🗂 Structure
 
 Each CTF has its own folder:
-📁 CTF-Name-Year/
+```📁 CTF-Name-Year/
 ├── 📂 category/
 │   └── 📂 challenge-name/
 │       ├── 📝 README.md       ← writeup
 │       └── 🧪 exploit.py      (if applicable)
-
+```
 
 **Categories:**  
 - `web`  
